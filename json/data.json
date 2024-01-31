@@ -1,30 +1,31 @@
 [
   {
-    "id": "web3philippines",
-    "name": "Web3 Philippines",
+    "id": "thecalaberas",
+    "name": "The Calaberas",
     "verified": true,
-	  "image": "https://avatars.githubusercontent.com/u/105350478?s=200&v=4",
+	  "image": "https://i.ibb.co/JmK0zW3/calabera-Profile-04.jpg",
     "description":
-      "Filipino-led community, helping Filipinos build in the Web3 space by providing free access to Web3 education, making us the first official and active Web3 community in the country. We believe that Web3 is and will always be for everyone.",
+      "TBA",
     "tags": [
+      "nft",
       "community"
     ],
     "links": {
       "facebook": {
         "id": "fb",
-        "url": "https://facebook.com/web3phl"
+        "url": "https://facebook.com/TheCalaberas"
       },
       "discord": {
         "id": "discord",
-        "url": "https://discord.com/invite/4xbJEBKWKc"
+        "url": "https://discord.gg/XguX39cSw2"
       },
       "twitter": {
         "id": "twitter",
-        "url": "https://twitter.com/web3phl"
+        "url": "https://twitter.com/TheCalaberas"
       },
       "website": {
         "id": "website",
-        "url": "https://web3philippines.org"
+        "url": "https://tc.goshendao.com"
       }
     }
   },
